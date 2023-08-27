@@ -1,6 +1,6 @@
 # ESPAsyncWebServer 
 
-This lib is designed to include ESPAsyncWebSrv.h
+This lib is designed to include ESPAsyncWebSrv, because there just have ESPAsyncWebSrv on Arduino, some other libs may still use the old one, so they need to to be inluded by this lib.
 
 Async HTTP and WebSocket Server for ESP8266 Arduino
 
