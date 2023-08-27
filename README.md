@@ -2,7 +2,7 @@
 
 This lib is designed to include ESPAsyncWebSrv, because there just have ESPAsyncWebSrv on Arduino, but some other libs may still use the old one, so they need to to be inluded by this lib.
 
-How to use? Just use the "import .zip lib" function in Arduino.
+How to use? Just download my code in .ZIP format, and use the "import .zip lib" function in Arduino.
 
 Async HTTP and WebSocket Server for ESP8266 Arduino
 
